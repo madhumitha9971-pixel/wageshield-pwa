@@ -1,0 +1,6 @@
+{
+  "Tamil Nadu": { "unskilled_daily_inr": 540, "skilled_daily_inr": 720, "effective_date": "2025-04-01" },
+  "Maharashtra": { "unskilled_daily_inr": 510, "skilled_daily_inr": 680, "effective_date": "2025-04-01" },
+  "Delhi": { "unskilled_daily_inr": 692, "skilled_daily_inr": 848, "effective_date": "2025-04-01" },
+  "Karnataka": { "unskilled_daily_inr": 565, "skilled_daily_inr": 710, "effective_date": "2025-04-01" }
+}
